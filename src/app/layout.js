@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Happy Birthday!",
-  description: "A special birthday countdown and celebration",
+  title: "gift for Vaishu!",
+  // description: "A special birthday countdown and celebration",
 }
 
 export default function RootLayout({ children }) {
